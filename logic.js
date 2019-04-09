@@ -1,7 +1,7 @@
 "use strict";
 
 const apiKey = "YfyT3sHhrfwMtV73edSw9JZbvIiP2DmF1TdVS1VZ";
-const searchURL = "https://developer.nps.gov/api/v1";
+const searchURL = "https://developer.nps.gov/api/v1/Parks?";
 
 //Activate the Form Event Listner
 $(document).ready(function() {
