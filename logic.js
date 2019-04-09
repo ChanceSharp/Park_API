@@ -1,7 +1,7 @@
 "use strict";
 
 const apiKey = "YfyT3sHhrfwMtV73edSw9JZbvIiP2DmF1TdVS1VZ";
-const searchURL = "https://api.nps.gov/api/v1/parks";
+const searchURL = "https://developer.nps.gov/api/v1/alerts?parkCode=acad,dena";
 
 //Activate the Form Event Listner
 $(document).ready(function() {
