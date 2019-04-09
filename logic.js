@@ -1,7 +1,7 @@
 "use strict";
 
 const apiKey = "YfyT3sHhrfwMtV73edSw9JZbvIiP2DmF1TdVS1VZ";
-const searchURL = "https://api.nps.gov/api/v1/parks";
+const searchURL = "https://developer.nps.gov/api/v1/parks?parkCode=acad&api_key=YfyT3sHhrfwMtV73edSw9JZbvIiP2DmF1TdVS1VZ";
 
 //Activate the Form Event Listner
 $(document).ready(function() {
